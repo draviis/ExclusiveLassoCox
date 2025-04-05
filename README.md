@@ -1,1 +1,1 @@
-# ExclusiveLassoCox
+# Exclusive Lasso for Cox Proportional Hazard models
